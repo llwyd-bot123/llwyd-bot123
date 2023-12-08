@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=llwyd-bot123.llwyd-bot123" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World+👋;+My+name+is+Lloyd!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World+👋;+My+name+is+Lloyd!;" />
 </h1>
 
 <h3 align="center">A junior Full Stack Web Developer from the Philippines</h3>
