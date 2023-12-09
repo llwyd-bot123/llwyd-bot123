@@ -53,5 +53,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 [![GitHub Streak](https://github-readme-streak-stats-zeta-one.vercel.app?user=llwyd-bot123&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-7dwu5augu-llwyd-bot123.vercel.app?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
