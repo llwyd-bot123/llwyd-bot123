@@ -53,6 +53,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats-zeta-one.vercel.app?user=llwyd-bot123&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div align=center>
+    
+ [![GitHub Streak](https://github-readme-streak-stats-zeta-one.vercel.app?user=llwyd-bot123&theme=tokyonight)](https://git.io/streak-stats)
+    
+ <img width=360 src="https://github-readme-stats-prsnl.vercel.app/api?username=llwyd-bot123&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=350 src="github-readme-stats-prsnl.vercel.app/api/top-langs/?username=llwyd-bot123&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats-7dwu5augu-llwyd-bot123.vercel.app?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+
+<hr/>
+
+<br/>
