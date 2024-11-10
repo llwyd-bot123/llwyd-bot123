@@ -12,7 +12,7 @@
  
  🚀 I’m currently navigating **career opportunities for professional growth**
  
- 🌐 My favorite programming languages are **JavaScript** and **Python**
+ 🌐 My favorite web programming languages are **JavaScript**, **Python**, **PHP**, and **RUBY**
 
  ⚡ Fun fact **When not immersed in passionately crafting code, you'll find me captivating worlds of MMO games**
 
@@ -35,8 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,bootstrap,tailwind,wordpress,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,flask,javascript,jquery,php,postgresql,mysql,bsd,c" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,tailwind,wordpress,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,jquery,ruby,php,laravel,python,flask,postgresql,mysql,c" /><br>
+    <img src="https://skillicons.dev/icons?i=bsd,linux,windows" /><br>
 </div>
 
 <br/>
