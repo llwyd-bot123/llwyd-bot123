@@ -12,7 +12,7 @@
  
  🚀 I’m currently navigating **career opportunities for professional growth**
  
- 🌐 My favorite web programming languages are **JavaScript**, **Python**, **PHP**, and **RUBY**
+ 🌐 My favorite web programming languages are **JavaScript**, **Python**, **PHP**, and **Ruby**
 
  ⚡ Fun fact **When not immersed in passionately crafting code, you'll find me captivating worlds of MMO games**
 
@@ -56,10 +56,17 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-zeta-one.vercel.app/?user=llwyd-bot123&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+<!--   <img width=390 src="https://github-readme-streak-stats-zeta-one.vercel.app/?user=llwyd-bot123&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-prsnl.vercel.app/api?username=llwyd-bot123&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-prsnl.vercel.app/api/top-langs/?username=llwyd-bot123&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-prsnl.vercel.app/api/top-langs/?username=llwyd-bot123&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+    <div align="center">
+  <img width="390" src="https://github-readme-streak-stats-zeta-one.vercel.app/?user=llwyd-bot123&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" style="margin-right: 20px;"/>
+  <img width="390" src="https://github-readme-stats-prsnl.vercel.app/api?username=llwyd-bot123&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-prsnl.vercel.app/api/top-langs/?username=llwyd-bot123&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 </div>
 
 <br/><br/>
